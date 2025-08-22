@@ -1,0 +1,1 @@
+{"rustc":8481811758164141466,"features":"[\"read\", \"read-core\"]","declared_features":"","target":6427611660296616318,"profile":2934930255871475053,"path":12551136820494810163,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/gimli-4b11a69c34d271ce/dep-lib-gimli"}}],"rustflags":[],"metadata":2685579525824107142,"config":2202906307356721367,"compile_kind":0}
